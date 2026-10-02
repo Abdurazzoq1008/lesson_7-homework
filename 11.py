@@ -1,12 +1,12 @@
-# yosh = int(input('yoshinggizni kiriting: '))
-# if yosh > 40:
-#     print('Siz qarisiz')
-# elif yosh > 17:
-#     print('Siz voyaga yetgansiz')
-# else :
-#     print('Tur yoqal beydan '
-#           'kick*')
-#
+yosh = int(input('yoshinggizni kiriting: '))
+if yosh > 40:
+    print('Siz qarisiz')
+elif yosh > 17:
+    print('Siz voyaga yetgansiz')
+else :
+    print('Tur yoqal beydan '
+          'kick*')
+
 
 xabar = "Uka degan maxluqot"
 xabar2 = 'Tall guy'
